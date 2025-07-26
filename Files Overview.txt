@@ -1,0 +1,17 @@
+﻿Project Artifacts Overview
+This repository contains all the necessary components of the Food & Beverage Marketing Insights analysis, from raw data processing to final visualization and reporting.
+I. Data Analysis & Scripts
+* FoodBev_Marketing_Analysis.sql - SQL Analysis Script:
+   * This file contains the complete set of SQL queries used for data cleaning, transformation, feature engineering, and extracting the core analytical insights from the raw survey data.
+* FoodBev_Marketing_Exploratory.sql - Supplementary SQL Code:
+   * A text file containing additional or developmental SQL queries used during the exploratory phase of the project.
+II. Business Intelligence & Visualization
+* FoodBev_Marketing_Dashboard.twbx - Primary Tableau Workbook:
+   * The final, packaged Tableau workbook (.twbx) that includes all interactive dashboards, worksheets, calculated fields, and the underlying data model.
+* FoodBev_Marketing_Report.pdf - Power BI Dashboard Report:
+   * A comprehensive PDF report showcasing all dashboards and visualizations created in Power BI. This serves as the primary visual summary for the Power BI component of the project, presented in a secure, non-editable format.
+III. Reports & Presentations
+* FoodBev_Marketing_Presentation.mp4 - Video Project Briefing:
+   * A comprehensive video presentation that walks through the project's objectives, methodology, key findings, and strategic recommendations, featuring a live demonstration of the Power BI dashboard.
+* assets/ - Dashboard Screenshots Folder:
+   * A dedicated folder containing a collection of high-resolution image files that document each of the individual dashboards and visualization components created for the project.

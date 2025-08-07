@@ -65,5 +65,6 @@ The Chief Marketing Officer (CMO) needs to understand the target audience, evalu
 
 ## ✍️ Author
 
-- \*\*Ranjan Ukey\*\* - [GitHub](https://github.com/ranjanukey)
+- Ranjan Ukey - [GitHub](https://github.com/ranjanukey)
+
 

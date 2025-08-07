@@ -1,72 +1,182 @@
-﻿# Food & Beverage Marketing Insights
+# 🥤 Food & Beverage Marketing Insights (India Launch 2025)
 
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+<p align="center">
+  <img src="https://img.icons8.com/color/96/energy-drink.png" alt="Beverage Logo"/>
+</p>
 
-> Analyzing survey data to provide marketing recommendations for a new beverage brand in the Indian market. A project for the Codebasics Resume Challenge.
+<p align="center">
+  <a href="https://youtu.be/Kwner3jZKQU">
+    <img src="https://img.shields.io/badge/Watch-Presentation-red?style=for-the-badge&logo=youtube" alt="Video Presentation"/>
+  </a>
+  <a href="https://github.com/ranjanukey/FoodBev_Marketing_Analysis_Project">
+    <img src="https://img.shields.io/github/stars/ranjanukey/FoodBev_Marketing_Analysis_Project?style=for-the-badge" alt="GitHub Stars"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Overview
+
+A futuristic, insight-driven marketing project designed to help **CodeX**, a German beverage company, grow its **energy drink** brand in India. Backed by survey data from 10,000+ respondents, the project dives deep into consumer behavior, market trends, and channel effectiveness — using **SQL, Tableau, and Power BI**.
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/sql.png" title="SQL"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau"/>
+  <img src="https://img.icons8.com/color/48/windows-10.png" title="Windows"/>
+</p>
+
+* 🔹 **SQL** – Data cleaning, transformation, exploratory queries
+* 🔹 **Power BI** – Interactive dashboard development & storytelling
+* 🔹 **Tableau** – Insight-rich visualizations
+* 🔹 **Excel** – Survey data formatting
+* 🔹 **YouTube** – Video walkthrough & presentation
+
+---
+
+## 📚 Table of Contents
+
+* [🏢 About the Brand](#-about-the-brand)
+* [🎯 Objective](#-objective)
+* [❓ Problem Statement](#-problem-statement)
+* [📈 Power BI Dashboard Snapshots](#-power-bi-dashboard-snapshots)
+* [📊 Key Insights](#-key-insights)
+* [💡 Strategic Recommendations](#-strategic-recommendations)
+* [📁 Project Assets](#-project-assets)
+* [👨‍💻 Developed By](#-developed-by)
+* [🛡️ Disclaimer](#️-disclaimer)
+
+---
+
+## 🏢 About the Brand
+
+**CodeX** is a premium German energy drink brand that has recently launched in **10 major Indian cities**. With rising demand for functional beverages, CodeX conducted an extensive **consumer survey** to fine-tune its marketing and product strategy for India.
+
+---
+
+## 🎯 Objective
+
+To analyze consumer feedback, identify purchase drivers, and develop **data-driven recommendations** that will help CodeX increase brand visibility, target the right audience, and improve market position in India.
+
+---
+
+## ❓ Problem Statement
+
+* Understand who the primary consumers are
+* Analyze purchase behavior and pricing sensitivity
+* Determine the most effective marketing channels
+* Benchmark CodeX against existing competitors
+* Provide growth strategies based on market insights
+
+---
+
+## 📈 Power BI Dashboard Snapshots
 
 
-### 📋 Table of Contents
 
-- [Problem Statement](#-problem-statement)
-- [Project Workflow](#-project-workflow)
-- [Tools Used](#-tools-used)
-- [Project Deliverables](#-project-deliverables)
-- [Insights](#-insights)
-- [Strategic Recommendations](#-strategic-recommendations)
-- [Project Files](#-project-files)
+### 🔹 LAST – FINAL Overview Dashboard
+
+![FINAL Overview](https://github.com/ranjanukey/FoodBev_Marketing_Analysis_Project/blob/master/Preview/Preview_9.jpg)
+
+---
+
+### 🔹 Page 2 – Demography Insights
+
+![Demographics](https://github.com/ranjanukey/FoodBev_Marketing_Analysis_Project/blob/master/Preview/Preview_2.jpg)
+
+---
+
+### 🔹 Page 3 – Consumer Preference
+
+![Preference](https://github.com/ranjanukey/FoodBev_Marketing_Analysis_Project/blob/master/Preview/Preview_3.jpg)
+
+---
+
+### 🔹 Page 4 – Competition Analysis
+
+![Competition Analysis](https://github.com/ranjanukey/FoodBev_Marketing_Analysis_Project/blob/master/Preview/Preview_4.jpg)
+
+---
+
+### 🔹 Page 5 – Marketing Channels
+
+![Marketing Channels](https://github.com/ranjanukey/FoodBev_Marketing_Analysis_Project/blob/master/Preview/Preview_5.jpg)
+
+---
+### 🔹 Page 6 – Brand Penetration
+
+![Brand Penetration](https://github.com/ranjanukey/FoodBev_Marketing_Analysis_Project/blob/master/Preview/Preview_6.jpg)
+
+---
+### 🔹 Page 7 – Purchase Behavior
+
+![Purchase Behavior](https://github.com/ranjanukey/FoodBev_Marketing_Analysis_Project/blob/master/Preview/Preview_7.jpg)
+
+---
+### 🔹 Page 8 – Product Development
+
+![Product Development](https://github.com/ranjanukey/FoodBev_Marketing_Analysis_Project/blob/master/Preview/Preview_8.jpg)
+
+---
+### 🔹 All Combined Pages
+
+![Quick Overview](https://github.com/ranjanukey/FoodBev_Marketing_Analysis_Project/blob/master/Preview/collage.jpg)
+
+---
 
 
-## 📝 Problem Statement
+## 📊 Key Insights
 
-CodeX, a German beverage company, has recently launched its new energy drink in 10 major Indian cities. To understand the market and consumer preferences, they conducted a survey of 10,000 individuals.
+* 🔵 **Demographics**: Males (60%) aged **19–30** are the dominant consumer group
+* 🔵 **Marketing Reach**: **Online Ads** reached over **40%** of the target market
+* 🔵 **Preferences**: High demand for **caffeine-based drinks** in **compact cans**
+* 🔵 **Market Position**: CodeX ranks **5th** among competitors in brand recall
+* 🔵 **Purchase Drivers**: **Taste** and **brand reputation** are top motivators
+* 🔵 **Price Range**: ₹50–₹99 is the sweet spot for maximum conversions
 
-The Chief Marketing Officer (CMO) needs to understand the target audience, evaluate brand performance against competitors, and identify effective marketing channels to devise a successful growth strategy for the Indian market.
-
-## ⚙️ Project Workflow
-
-1. Data Cleaning & Processing (SQL)
-1. Exploratory Data Analysis (EDA)
-1. Dashboard Creation (Power BI & Tableau)
-1. Insight Generation
-1. Strategy Recommendation
-
-## 🛠️ Tools Used
-
-- Data Cleaning & Analysis : SQL
-- Data Visualization : Power BI, Tableau
-
-## 🚀 Project Deliverables
-
-* [Video Presentation](https://youtu.be/Kwner3jZKQU): A summary of the project and key findings.
-
-
-## 📊 Insights
-
-- Demographics: Primary consumer base is males (~60%) in the 19-30 age group.
-- Marketing Channels: Online ads are the most effective channel, reaching over 40% of consumers.
-- Consumer Preferences: Caffeine is the most preferred ingredient, and compact cans are highly favored.
-- Market Positioning: CodeX is currently ranked 5th in a competitive market.
-- Purchase Drivers: Brand reputation and taste are the top reasons for choosing a brand.
-- Pricing Strategy: The optimal price range appears to be ₹50-₹99.
+---
 
 ## 💡 Strategic Recommendations
 
-- Product: Introduce new flavors and a lower-sugar variant.
-- Marketing: Target youths and fitness influencers via online ads and social media.
-- Pricing: Implement promotional pricing (₹50-₹99), bundle deals, and seasonal offers.
-- Distribution: Focus on availability in supermarkets, the most popular purchase location.
+| Area            | Recommendation                                                                  |
+| --------------- | ------------------------------------------------------------------------------- |
+| 🎯 Product      | Launch **low-sugar variants** and **localized flavors**                         |
+| 📢 Marketing    | Focus on **online ads**, **fitness influencers**, and social media campaigns    |
+| 💰 Pricing      | Use **bundle offers**, **introductory ₹50–₹99 pricing**, and **seasonal deals** |
+| 🛒 Distribution | Expand availability to **supermarkets and high-footfall zones**                 |
 
-## 🗂️ Project Files
+---
 
-* major sample 01.sql\*\*: Contains all SQL queries used for data cleaning, transformation, and analysis.
-* Major Project Implentation.twbx\*\*: The packaged Tableau workbook with all visualizations and dashboards.
-* Enhancing Brand Presence...mp4\*\*: A video walkthrough of the Power BI dashboard and project findings.
-* Preview.pdf\*\*: A PDF document summarizing the key insights from the dashboards.
+## 📁 Project Assets
 
-## ✍️ Author
+| Folder               | Contents                                               |
+| -------------------- | ------------------------------------------------------ |
+| `SQL/`               | All queries for cleaning, transformation, and analysis |
+| `Dashboard/Tableau/` | Tableau packaged workbook with dashboards              |
+| `Dashboard/PowerBI/` | Power BI PDF & visuals (see above screenshots)         |
+| `Presentation/`      | [Video Walkthrough](https://youtu.be/Kwner3jZKQU)      |
+| `Report/`            | Insight summary & documentation in PDF format          |
+| `Assets/`            | Icons, logos, and branding elements                    |
 
-- Ranjan Ukey - [GitHub](https://github.com/ranjanukey)
+---
 
+## 👨‍💻 Developed By
 
+**Ranjan Ukey**
+📌 Data Analyst Intern
+🔗 [GitHub](https://github.com/ranjanukey) • [LinkedIn](https://www.linkedin.com/in/ranjanukey)
 
+---
+
+## 🛡️ Disclaimer
+
+This project was created as part of the **Codebasics Resume Challenge** and uses synthetic survey data. It is intended for educational and portfolio showcase purposes only.
+
+<p align="center">
+  <img src="https://img.icons8.com/nolan/64/security-checked.png"/>
+</p>
 

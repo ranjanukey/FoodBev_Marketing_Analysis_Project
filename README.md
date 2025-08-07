@@ -32,12 +32,12 @@ The Chief Marketing Officer (CMO) needs to understand the target audience, evalu
 
 ## 🛠️ Tools Used
 
-- \*\*Data Cleaning & Analysis:\*\* SQL
-- \*\*Data Visualization:\*\* Power BI, Tableau
+- Data Cleaning & Analysis : SQL
+- Data Visualization : Power BI, Tableau
 
 ## 🚀 Project Deliverables
 
-* \*\*[Video Presentation](https://youtu.be/Kwner3jZKQU)\*\*: A summary of the project and key findings.
+* [Video Presentation](https://youtu.be/Kwner3jZKQU): A summary of the project and key findings.
 
 
 ## 📊 Insights
@@ -66,6 +66,7 @@ The Chief Marketing Officer (CMO) needs to understand the target audience, evalu
 ## ✍️ Author
 
 - Ranjan Ukey - [GitHub](https://github.com/ranjanukey)
+
 
 
 

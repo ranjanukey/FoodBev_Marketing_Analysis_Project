@@ -58,13 +58,14 @@ The Chief Marketing Officer (CMO) needs to understand the target audience, evalu
 
 ## 🗂️ Project Files
 
-* \*\*major sample 01.sql\*\*: Contains all SQL queries used for data cleaning, transformation, and analysis.
-* \*\*Major Project Implentation.twbx\*\*: The packaged Tableau workbook with all visualizations and dashboards.
-* \*\*Enhancing Brand Presence...mp4\*\*: A video walkthrough of the Power BI dashboard and project findings.
-* \*\*Preview.pdf\*\*: A PDF document summarizing the key insights from the dashboards.
+* major sample 01.sql\*\*: Contains all SQL queries used for data cleaning, transformation, and analysis.
+* Major Project Implentation.twbx\*\*: The packaged Tableau workbook with all visualizations and dashboards.
+* Enhancing Brand Presence...mp4\*\*: A video walkthrough of the Power BI dashboard and project findings.
+* Preview.pdf\*\*: A PDF document summarizing the key insights from the dashboards.
 
 ## ✍️ Author
 
 - Ranjan Ukey - [GitHub](https://github.com/ranjanukey)
+
 
 
